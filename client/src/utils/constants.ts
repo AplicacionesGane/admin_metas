@@ -18,7 +18,7 @@ export const dataSelectCanal = [
   { label: 'PARADERO', value: 'PARADERO' },
   { label: 'APP', value: 'APP' },
   { label: 'NOMINA MOVIL', value: 'NOMINA MOVIL' },
-  { label: 'CORRRESPONSALGANE', value: 'CORRRESPONSALGANE' }
+  { label: 'CORRRESPONSALGANE', value: 'CORRESPONSALGANE' }
 ]
 
 export const dataSelectCelula = [
