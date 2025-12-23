@@ -153,7 +153,7 @@ function LazyDialogContent({ funClose, funReload, idTrans }: PropsDialog) {
 
         <CardContent className=''>
           <form className='flex flex-col gap-2'>
-            <article className='px-4'>
+            <article maxLength={499} className='px-4'>
               <Textarea
                 placeholder='Nota | Observación'
                 required
